@@ -1,0 +1,62 @@
+{
+    "Search": [
+    {
+    "Title": "Mr. Robot",
+    "Year": "2015–2019",
+    "imdbID": "tt4158110",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2QyNDIzOGMtNThhNS00NmUwLWI0ZjUtZjdkN2I1OTRjZWQ3XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Mr. Robot Digital After Show",
+    "Year": "2016–",
+    "imdbID": "tt6137444",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTZmNzI5NjQtYWMzNy00NzdhLWFjYTQtMzU3YTIxZGM4OTZlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyOTE1NzY5OQ@@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Mr. Robot Virtual Reality Experience",
+    "Year": "2016",
+    "imdbID": "tt16898930",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmVjZjM1NWMtNTY1My00NWZhLTkyMzYtOGViNjBkNjc0ZmQyXkEyXkFqcGdeQXVyNTI4MzI4NTQ@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Mr. Robot: Behind the Mask",
+    "Year": "2017",
+    "imdbID": "tt6604064",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTJlZjAzMmMtOGI3OC00MmYwLWEwYjUtMmQwZWI2YTA1YWE5XkEyXkFqcGdeQXVyNTkyMDAwNzQ@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Mr. Robot: M4k1ng_0f_Mr_R0b0t.m0v",
+    "Year": "2016",
+    "imdbID": "tt5321406",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDU3NzkzMTMtYzU3MC00ZTJkLTg1ZjctOGVkYTZhMWRjYTEyXkEyXkFqcGdeQXVyNTkyMDAwNzQ@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Mr. Robot_dec0d3d.doc",
+    "Year": "2016",
+    "imdbID": "tt18925788",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjE5NjJlNzUtZTVkOC00NDc1LWFmYjItMGU1ODQ0MWY0NDk0XkEyXkFqcGdeQXVyMTI0MDY5NzI@._V1_SX300.jpg"
+    },
+    {
+    "Title": "Mr. Robot and His Robot Factory",
+    "Year": "1984",
+    "imdbID": "tt0852731",
+    "Type": "game",
+    "Poster": "N/A"
+    },
+    {
+    "Title": "AfterbuzzTV's Mr. Robot Aftershow",
+    "Year": "2015",
+    "imdbID": "tt5260996",
+    "Type": "movie",
+    "Poster": "N/A"
+    }
+    ],
+    "totalResults": "8",
+    "Response": "True"
+    }
