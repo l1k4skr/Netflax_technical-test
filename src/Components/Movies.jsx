@@ -26,9 +26,9 @@ export function NoMoviesResult() {
 
 export default function Movies({movies}) {
 	const hasResults = movies && movies.length > 0
+	console.log(movies.poster)
 	console.log(hasResults)
 	console.log(movies)
-	console.log(movies.length)
 	return (
 		<>
 			{hasResults ? <ListOfMovies movies={movies} /> : <NoMoviesResult />}

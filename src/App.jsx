@@ -10,11 +10,17 @@ function App() {
 	let { Search: movies } = responseMovies
 	// movies = undefined
 
-	const mappedMovies = movies?.map(movie => ({
-		id: movie.imdbID,
-		title: movie.Title,
-		poster: movie.Poster
-	}))
+	const mappedMovies = movies?.map((movie) => {
+		if (movie.Poster === 'N/A') {
+			return
+		}
+		console.log(movie)
+		return {
+			id: movie.imdbID,
+			title: movie.Title,
+			poster: movie.Poster
+		}
+	} ) // map?.map(*callback* , *thisArg*, *array*, *index* ) => *newArray* // 
 	
 	return (
 		<div>
